@@ -1,0 +1,7 @@
+oop (object oriented programming) 
+
+classes - methods,variables
+objects
+
+Principles 
+@abstraction
