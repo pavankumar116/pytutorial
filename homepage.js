@@ -1,3 +1,2 @@
-console.log("pytutorial page is working.....");
 
-console.log("This is py tutorial")
+console.log("updated all files.... site is working....");
